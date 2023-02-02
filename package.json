@@ -1,0 +1,13 @@
+{
+  "name": "icssc",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "workspaces": [
+    "apps/*"
+  ],
+  "dependencies": {
+    "@date-io/date-fns": "^2.16.0",
+    "date-fns": "^2.29.3"
+  }
+}
